@@ -1,2 +1,2 @@
 # Sagemaker-project
-practicumdigital project
+practicumdigital project AWS Sagemaker
